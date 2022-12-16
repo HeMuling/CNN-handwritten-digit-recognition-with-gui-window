@@ -108,7 +108,7 @@ predict_button = tk.Button(
 result_label = tk.Label(frame, text='Prediction ')
 
 # create label to show info.
-info_author_label = tk.Label(frame, text='作者：何俊璁')
+info_author_label = tk.Label(frame, text='作者：何慕菱')
 info_gui_label = tk.Label(frame, text='点击Predict按钮进行识别\n点击Clear按钮清空画布')
 
 # use grid to locate the widgets
